@@ -4,5 +4,5 @@
 
 | Aperçu | Lien |
 | ------ | ---- |
-| ![Texte alternatif](https://url-de-limage.png) | [Texte du lien](https://exemple.com) |
-| ![Autre image](https://url-image-2.png) | [Autre lien](https://exemple.com/docs) |
+| ![Texte alternatif](https://url-de-limage.png) | [Texte du lien](https://fr.borntobefuck.com/categories) |
+| ![Autre image](https://url-image-2.png) | [Autre lien](https://fr.borntobefuck.com/categories) |
